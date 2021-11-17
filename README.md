@@ -1,3 +1,5 @@
+## Felipe Garcia Bernardes
+
 - 👋 Hi, I’m @FelipeGB98
 - 👀 I'm interested in learning new languages and making my codes better written and more optimized
 - 🌱 I’m currently learning HTML and CSS
