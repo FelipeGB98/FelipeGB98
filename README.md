@@ -1,4 +1,4 @@
-## Felipe Garcia Bernardes, Programador e desenvolvedor
+## Felipe Garcia Bernardes, Programador e desenvolvedor / Developer
 <div align="center">
   <a href="https://github.com/FelipeGB98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGB98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
